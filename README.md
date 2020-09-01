@@ -10,7 +10,11 @@ Working with Front-end:
 
 > [Angular 8 JWT Authentication with HttpInterceptor and Router](https://bezkoder.com/angular-jwt-authentication/)
 
-> [React JWT Authentication (without Redux) example](https://bezkoder.com/react-jwt-auth/)
+> [Angular 10 JWT Authentication with HttpInterceptor and Router](https://bezkoder.com/angular-10-jwt-auth/)
+
+> [React JWT Authentication & Authorization (without Redux) example](https://bezkoder.com/react-jwt-auth/)
+
+> [React Redux JWT Authentication & Authorization example](https://bezkoder.com/react-redux-jwt-auth/)
 
 ## Project setup
 ```
