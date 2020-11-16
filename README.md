@@ -16,6 +16,13 @@ Working with Front-end:
 
 > [React Redux JWT Authentication & Authorization example](https://bezkoder.com/react-redux-jwt-auth/)
 
+Integration on same Server/Port:
+> [Integrate Angular 8 with Node.js Express](https://bezkoder.com/integrate-angular-8-node-js/)
+
+> [Integrate Angular 10 with Node.js Express](https://bezkoder.com/integrate-angular-10-node-js/)
+
+> [Integrate React with Node.js Express](https://bezkoder.com/integrate-react-express-same-server-port/)
+
 ## Project setup
 ```
 npm install
