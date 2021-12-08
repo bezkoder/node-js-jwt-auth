@@ -15,19 +15,11 @@ You may need to implement Refresh Token:
 > [Node.js JWT Refresh Token example](https://bezkoder.com/jwt-refresh-token-node-js/)
 
 Working with Front-end:
-> [Vue.js JWT Authentication with Vuex and Vue Router](https://bezkoder.com/jwt-vue-vuex-authentication/)
+> [Vue](https://www.bezkoder.com/jwt-vue-vuex-authentication/)
 
-> [Angular 8 JWT Authentication with HttpInterceptor and Router](https://bezkoder.com/angular-jwt-authentication/)
+> [Angular 8](https://www.bezkoder.com/angular-jwt-authentication/) / [Angular 10](https://www.bezkoder.com/angular-10-jwt-auth/) / [Angular 11](https://www.bezkoder.com/angular-11-jwt-auth/) / [Angular 12](https://www.bezkoder.com/angular-12-jwt-auth/) / [Angular 13](https://www.bezkoder.com/angular-13-jwt-auth/)
 
-> [Angular 10 JWT Authentication with HttpInterceptor and Router](https://bezkoder.com/angular-10-jwt-auth/)
-
-> [Angular 11 JWT Authentication with HttpInterceptor and Router](https://bezkoder.com/angular-11-jwt-auth/)
-
-> [Angular 12 JWT Authentication with HttpInterceptor and Router](https://bezkoder.com/angular-12-jwt-auth/)
-
-> [React JWT Authentication & Authorization (without Redux) example](https://bezkoder.com/react-jwt-auth/)
-
-> [React Redux JWT Authentication & Authorization example](https://bezkoder.com/react-redux-jwt-auth/)
+> [React](https://www.bezkoder.com/react-jwt-auth/) / [React + Redux](https://www.bezkoder.com/react-redux-jwt-auth/)
 
 ## More Practice:
 > [Build Node.js Rest APIs with Express, Sequelize & MySQL](https://bezkoder.com/node-js-express-sequelize-mysql/)
@@ -49,11 +41,15 @@ Deployment:
 > [Deploying/Hosting Node.js app on Heroku with MySQL database](https://bezkoder.com/deploy-node-js-app-heroku-cleardb-mysql/)
 
 Integration on same Server/Port:
-> [Integrate Angular 8 with Node.js Express](https://bezkoder.com/integrate-angular-8-node-js/)
+> [Integrate Vue with Node.js Express](https://www.bezkoder.com/serve-vue-app-express/)
 
-> [Integrate Angular 10 with Node.js Express](https://bezkoder.com/integrate-angular-10-node-js/)
+> [Integrate Angular 8 with Node.js Express](https://www.bezkoder.com/integrate-angular-8-node-js/)
 
-> [Integrate React with Node.js Express](https://bezkoder.com/integrate-react-express-same-server-port/)
+> [Integrate Angular 10 with Node.js Express](https://www.bezkoder.com/integrate-angular-10-node-js/)
+
+> [Integrate Angular 12 with Node.js Express](https://www.bezkoder.com/integrate-angular-12-node-js/)
+
+> [Integrate React with Node.js Express](https://www.bezkoder.com/integrate-react-express-same-server-port/)
 
 ## Project setup
 ```
