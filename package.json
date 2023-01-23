@@ -14,7 +14,7 @@
     "express",
     "mysql"
   ],
-  "author": "bezkoder",
+  "author": "bethu05",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
