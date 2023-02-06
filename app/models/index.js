@@ -47,6 +47,6 @@ db.user.hasOne(db.refreshToken, {
   targetKey: "id",
 });
 
-db.ROLES = ["admin", "accountant", "teacher", "student", "parent"];
+// db.ROLES = ["admin", "accountant", "teacher", "student", "parent"];
 
 module.exports = db;

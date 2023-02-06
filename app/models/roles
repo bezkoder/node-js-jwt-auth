@@ -1,0 +1,11 @@
+user
+admin
+super_admin
+create_student
+update_student
+get_student
+delete_student
+create_student_category
+update_student_categoty
+get_student_categoty
+delete_student_categoty

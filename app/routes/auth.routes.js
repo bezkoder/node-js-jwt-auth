@@ -18,6 +18,7 @@ module.exports = function (app) {
     ],
     controller.signup
   );
+  app.get("/api/v1/auth/updateuser/:id", controller.updateUser);
 
   app.post("/api/v1/auth/signin", controller.signin);
   app.post("/api/v1/auth/refreshtoken", controller.refreshToken);
