@@ -38,16 +38,14 @@ Associations:
 > [Sequelize Associations: Many-to-Many Relationship example](https://bezkoder.com/sequelize-associate-many-to-many/)
 
 Deployment:
+> [Docker Compose: Node.js Express and MySQL example](https://www.bezkoder.com/docker-compose-nodejs-mysql/)
+
 > [Deploying/Hosting Node.js app on Heroku with MySQL database](https://bezkoder.com/deploy-node-js-app-heroku-cleardb-mysql/)
 
 Integration on same Server/Port:
 > [Integrate Vue with Node.js Express](https://www.bezkoder.com/serve-vue-app-express/)
 
-> [Integrate Angular 8 with Node.js Express](https://www.bezkoder.com/integrate-angular-8-node-js/)
-
-> [Integrate Angular 10 with Node.js Express](https://www.bezkoder.com/integrate-angular-10-node-js/)
-
-> [Integrate Angular 12 with Node.js Express](https://www.bezkoder.com/integrate-angular-12-node-js/)
+> [Integrate Angular with Node.js Express](https://www.bezkoder.com/integrate-angular-12-node-js/)
 
 > [Integrate React with Node.js Express](https://www.bezkoder.com/integrate-react-express-same-server-port/)
 
